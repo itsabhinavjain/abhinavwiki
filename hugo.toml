@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
   author = "Abhinav Jain"
-  info = "Personal Musings"
+  info = "My personal musings"
   description = "Abhinav's Personal Website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
@@ -63,13 +63,3 @@ style = "github-dark"
   weight = 4
   url = "https://medium.com/@theabhinavjain"
 
-
-# Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
